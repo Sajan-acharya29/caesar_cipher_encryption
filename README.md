@@ -1,0 +1,2 @@
+# caesar_cipher_encryption
+A Caesar Cipher is one of the oldest encryption techniques in existence. It encodes a message by shifting all of the characters in the message a set number of steps. The letter is shifted by walking down the cipher number for each character in the message. To decode, we shift all the characters backwards in the alphabet by the cipher number. Here is the link about the Caesar Cipher encryption- https://en.wikipedia.org/wiki/Caesar_cipher
